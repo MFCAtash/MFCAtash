@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:041b15,50:0b6e4f,100:3ddc97&height=210&section=header&text=Mohammad%20Atash&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Frontend%20Focused&descAlignY=58&descSize=18&descColor=c9ffe5">
+<img width="100%" alt="Header Banner — Mohammad Atash" src="assets/banner.svg">
 
 <a href="https://github.com/MFCAtash">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3DDC97&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer;Frontend-Focused+Engineer;AI+%26+Intelligent+Systems+Enthusiast;Building+Clean%2C+Scalable+Software">
