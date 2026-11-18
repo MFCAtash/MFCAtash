@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammad Atash
+<img width="100%" alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1f6feb,100:ffd76a&height=210&section=header&text=Mohammad%20Atash&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Frontend%20Focused&descAlignY=58&descSize=18">
 
-**Full-Stack Developer | Frontend-Focused | AI & Intelligent Systems Enthusiast**
+<a href="https://github.com/MFCAtash">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FFD76A&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer;Frontend-Focused+Engineer;AI+%26+Intelligent+Systems+Enthusiast;Building+Clean%2C+Scalable+Software">
+</a>
+
+### 👋 Hi, I'm Mohammad Atash
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MFCAtash&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/MFCAtash)
 [![GitHub Followers](https://img.shields.io/github/followers/MFCAtash?label=Followers&style=for-the-badge&color=0e75b6&logo=github)](https://github.com/MFCAtash?tab=followers)
@@ -13,6 +17,8 @@
 ---
 
 ## 🧑‍💻 About Me
+
+**Full-Stack Developer | Frontend-Focused | AI & Intelligent Systems Enthusiast**
 
 I'm a **Full-Stack Developer** with a strong focus on **Frontend Engineering**, passionate about building modern, scalable, and user-centered software applications.
 
@@ -26,17 +32,13 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ## 🛠️ Technical Skills
 
-### 🎨 Frontend Development
+<div align="center">
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
+<img alt="Skill Icons" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,nestjs,mysql,postgres,mongodb,py,cpp,git,github,docker&perline=9&theme=dark">
+
+</div>
+
+### 🎨 Frontend Development
 
 - HTML5, CSS3, JavaScript (ES6+), TypeScript
 - React.js
@@ -47,12 +49,6 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ### ⚙️ Backend Development
 
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-</p>
-
 - Node.js, Express.js, NestJS
 - RESTful API Design & Development
 - API Integration
@@ -60,14 +56,6 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 - Authentication & Authorization
 
 ### 🗄️ Databases
-
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
 
 - MySQL, PostgreSQL, MariaDB
 - Microsoft SQL Server
@@ -77,26 +65,12 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ### 💻 Programming Languages
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</p>
-
 - Python
 - JavaScript
 - TypeScript
 - C++
 
 ### 🚀 Software Engineering & DevOps
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-</p>
 
 - Git & GitHub
 - Docker & Containerization
@@ -151,10 +125,48 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 <div align="center">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MFCAtash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFCAtash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MFCAtash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFCAtash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
 
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MFCAtash&theme=tokyonight&hide_border=true">
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MFCAtash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MFCAtash&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity">
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MFCAtash/MFCAtash/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MFCAtash/MFCAtash/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/MFCAtash/MFCAtash/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## 💬 Quote of the Day
+
+<div align="center">
+
+<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 </div>
 
@@ -168,6 +180,7 @@ Always open to meaningful collaborations, technical discussions, new opportuniti
 
 > **Think creatively. Code cleanly. Build intelligently. Keep evolving.**
 
-<a href="https://github.com/MFCAtash"><img alt="GitHub" src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/MFCAtash"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:mohammadatash62@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
