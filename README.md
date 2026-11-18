@@ -162,16 +162,6 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-## 💬 Quote of the Day
-
-<div align="center">
-
-<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 Always open to meaningful collaborations, technical discussions, new opportunities, and building innovative software solutions.
