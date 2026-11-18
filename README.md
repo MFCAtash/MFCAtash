@@ -1,22 +1,24 @@
 <div align="center">
 
-<img width="100%" alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1f6feb,100:ffd76a&height=210&section=header&text=Mohammad%20Atash&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Frontend%20Focused&descAlignY=58&descSize=18">
+<img width="100%" alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:041b15,50:0b6e4f,100:3ddc97&height=210&section=header&text=Mohammad%20Atash&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Frontend%20Focused&descAlignY=58&descSize=18&descColor=c9ffe5">
 
 <a href="https://github.com/MFCAtash">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FFD76A&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer;Frontend-Focused+Engineer;AI+%26+Intelligent+Systems+Enthusiast;Building+Clean%2C+Scalable+Software">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3DDC97&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer;Frontend-Focused+Engineer;AI+%26+Intelligent+Systems+Enthusiast;Building+Clean%2C+Scalable+Software">
 </a>
 
 ### 👋 Hi, I'm Mohammad Atash
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MFCAtash&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/MFCAtash)
-[![GitHub Followers](https://img.shields.io/github/followers/MFCAtash?label=Followers&style=for-the-badge&color=0e75b6&logo=github)](https://github.com/MFCAtash?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/MFCAtash?label=Stars&style=for-the-badge&color=ffd76a&logo=github)](https://github.com/MFCAtash?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=MFCAtash&label=Profile%20Views&color=0b6e4f&style=for-the-badge)](https://github.com/MFCAtash)
+[![GitHub Followers](https://img.shields.io/github/followers/MFCAtash?label=Followers&style=for-the-badge&color=0b6e4f&logo=github)](https://github.com/MFCAtash?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/MFCAtash?label=Stars&style=for-the-badge&color=3ddc97&logo=github)](https://github.com/MFCAtash?tab=repositories)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+<img width="100%" alt="About Me" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b6e4f,100:6a1b9a&height=45&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 **Full-Stack Developer | Frontend-Focused | AI & Intelligent Systems Enthusiast**
 
@@ -30,7 +32,9 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-## 🛠️ Technical Skills
+<div align="center">
+<img width="100%" alt="Technical Skills" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a1b9a,100:0b6e4f&height=45&section=header&text=Technical%20Skills&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 <div align="center">
 
@@ -83,7 +87,9 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-## 🎯 Areas of Interest
+<div align="center">
+<img width="100%" alt="Areas of Interest" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b6e4f,100:6a1b9a&height=45&section=header&text=Areas%20of%20Interest&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 - Artificial Intelligence & Machine Learning
 - Deep Learning & Neural Networks
@@ -96,7 +102,9 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-## 🚀 Currently Exploring
+<div align="center">
+<img width="100%" alt="Currently Exploring" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a1b9a,100:0b6e4f&height=45&section=header&text=Currently%20Exploring&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 - Advanced Frontend Engineering
 - Modern React Ecosystem & Software Architecture
@@ -109,7 +117,9 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-## 💡 Engineering Mindset
+<div align="center">
+<img width="100%" alt="Engineering Mindset" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b6e4f,100:6a1b9a&height=45&section=header&text=Engineering%20Mindset&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 - Continuous Learning & Professional Growth
 - Teamwork & Collaborative Development
@@ -121,34 +131,42 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+<img width="100%" alt="GitHub Stats" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a1b9a,100:0b6e4f&height=45&section=header&text=GitHub%20Stats&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 <div align="center">
 
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MFCAtash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFCAtash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MFCAtash&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true">
+<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFCAtash&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8">
 
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MFCAtash&theme=tokyonight&hide_border=true">
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MFCAtash&theme=midnight-purple&hide_border=true">
 
 </div>
 
-## 🏆 GitHub Trophies
+<div align="center">
+<img width="100%" alt="GitHub Trophies" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b6e4f,100:6a1b9a&height=45&section=header&text=GitHub%20Trophies&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 <div align="center">
 
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MFCAtash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MFCAtash&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
 
 </div>
 
-## 📈 Contribution Activity
+<div align="center">
+<img width="100%" alt="Contribution Activity" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a1b9a,100:0b6e4f&height=45&section=header&text=Contribution%20Activity&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 <div align="center">
 
-<img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MFCAtash&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity">
+<img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MFCAtash&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity">
 
 </div>
 
-## 🐍 Contribution Snake
+<div align="center">
+<img width="100%" alt="Contribution Snake" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b6e4f,100:6a1b9a&height=45&section=header&text=Contribution%20Snake&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 <div align="center">
 
@@ -162,7 +180,9 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
+<img width="100%" alt="Let's Connect" src="https://capsule-render.vercel.app/api?type=rect&color=0:6a1b9a,100:0b6e4f&height=45&section=header&text=Let%27s%20Connect&fontSize=22&fontColor=ffffff&animation=fadeIn">
+</div>
 
 Always open to meaningful collaborations, technical discussions, new opportunities, and building innovative software solutions.
 
