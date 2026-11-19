@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" alt="Header Banner — Mohammad Atash" src="assets/banner.svg?v=2">
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/MFCAtash/MFCAtash/main/assets/banner-mobile.svg">
+  <img width="100%" alt="Mohammad Atash — Full-Stack Developer · Frontend Focused · AI" src="https://raw.githubusercontent.com/MFCAtash/MFCAtash/main/assets/banner-desktop.svg">
+</picture>
 
 <a href="https://github.com/MFCAtash">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3DDC97&center=true&vCenter=true&width=760&height=60&lines=Full-Stack+Developer;Frontend-Focused+Engineer;AI+%26+Intelligent+Systems+Enthusiast;Building+Clean%2C+Scalable+Software">
