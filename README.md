@@ -12,6 +12,9 @@
 [![GitHub Followers](https://img.shields.io/github/followers/MFCAtash?label=Followers&style=for-the-badge&color=0b6e4f&logo=github)](https://github.com/MFCAtash?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/MFCAtash?label=Stars&style=for-the-badge&color=3ddc97&logo=github)](https://github.com/MFCAtash?tab=repositories)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-atash-66a1b7414)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadatash62@gmail.com)
+
 </div>
 
 ---
@@ -190,7 +193,10 @@ Always open to meaningful collaborations, technical discussions, new opportuniti
 
 > **Think creatively. Code cleanly. Build intelligently. Keep evolving.**
 
-<a href="https://github.com/MFCAtash"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:mohammadatash62@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mohammed-atash-66a1b7414"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Atash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mohammadatash62@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-mohammadatash62%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/MFCAtash"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MFCAtash-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+**📧 Email:** [mohammadatash62@gmail.com](mailto:mohammadatash62@gmail.com) &nbsp;|&nbsp; **💼 LinkedIn:** [Mohammed Atash](https://www.linkedin.com/in/mohammed-atash-66a1b7414)
 
 </div>
