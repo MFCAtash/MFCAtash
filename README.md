@@ -8,24 +8,19 @@
 
 ### 👋 Hi, I'm Mohammad Atash
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Atash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-atash-66a1b7414)
+[![Email](https://img.shields.io/badge/Email-mohammadatash62%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadatash62@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-PDF-0b6e4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/Mohammad-Atash-CV.pdf)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=MFCAtash&label=Profile%20Views&color=0b6e4f&style=for-the-badge)](https://github.com/MFCAtash)
 [![GitHub Followers](https://img.shields.io/github/followers/MFCAtash?label=Followers&style=for-the-badge&color=0b6e4f&logo=github)](https://github.com/MFCAtash?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/MFCAtash?label=Stars&style=for-the-badge&color=3ddc97&logo=github)](https://github.com/MFCAtash?tab=repositories)
-
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Stack%20%2F%20Frontend-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](#-lets-connect)
-[![Freelance](https://img.shields.io/badge/Available%20for-Freelance%20Projects-0b6e4f?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mohammed-atash-66a1b7414)
-[![Remote](https://img.shields.io/badge/Remote-Friendly-3ddc97?style=for-the-badge&logo=googlemeet&logoColor=black)](#-lets-connect)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-atash-66a1b7414)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadatash62@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-<img width="100%" alt="About Me" src="assets/headers/about.svg">
-</div>
+## 🧑‍💻 About Me
 
 **Full-Stack Developer | Frontend-Focused | AI & Intelligent Systems Enthusiast**
 
@@ -39,9 +34,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-<div align="center">
-<img width="100%" alt="Technical Skills" src="assets/headers/skills.svg">
-</div>
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -100,20 +93,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-<div align="center">
-<img width="100%" alt="What I'm Doing Now" src="assets/headers/now.svg">
-</div>
-
-- 🔭 **Building:** modern, scalable full-stack applications with clean architecture
-- 📚 **Learning:** Deep Learning, LLM integration, and advanced NestJS
-- 🤝 **Open to:** Frontend, Full-Stack, and AI collaborations
-- 💬 **Ask me about:** React, TypeScript, Node.js, databases, and clean code
-
----
-
-<div align="center">
-<img width="100%" alt="Featured Projects" src="assets/headers/projects.svg">
-</div>
+## 📌 Featured Projects
 
 <div align="center">
 
@@ -128,9 +108,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-<div align="center">
-<img width="100%" alt="Areas of Interest" src="assets/headers/interests.svg">
-</div>
+## 🎯 Areas of Interest
 
 - Artificial Intelligence & Machine Learning
 - Deep Learning & Neural Networks
@@ -143,9 +121,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-<div align="center">
-<img width="100%" alt="Currently Exploring" src="assets/headers/exploring.svg">
-</div>
+## 🚀 Currently Exploring
 
 - Advanced Frontend Engineering
 - Modern React Ecosystem & Software Architecture
@@ -158,9 +134,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-<div align="center">
-<img width="100%" alt="Engineering Mindset" src="assets/headers/mindset.svg">
-</div>
+## 💡 Engineering Mindset
 
 - Continuous Learning & Professional Growth
 - Teamwork & Collaborative Development
@@ -172,9 +146,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 ---
 
-<div align="center">
-<img width="100%" alt="GitHub Stats" src="assets/headers/stats.svg">
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -185,9 +157,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 </div>
 
-<div align="center">
-<img width="100%" alt="GitHub Trophies" src="assets/headers/trophies.svg">
-</div>
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -195,9 +165,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 </div>
 
-<div align="center">
-<img width="100%" alt="Contribution Activity" src="assets/headers/activity.svg">
-</div>
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -205,9 +173,7 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 </div>
 
-<div align="center">
-<img width="100%" alt="Contribution Snake" src="assets/headers/snake.svg">
-</div>
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -219,31 +185,9 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 </div>
 
-<div align="center">
-<img width="100%" alt="Coding Metrics" src="assets/headers/metrics.svg">
-</div>
-
-<div align="center">
-
-<img width="100%" alt="GitHub Metrics" src="https://raw.githubusercontent.com/MFCAtash/MFCAtash/metrics/github-metrics.svg">
-
-</div>
-
-<div align="center">
-<img width="100%" alt="My Journey" src="assets/headers/journey.svg">
-</div>
-
-<div align="center">
-
-<img width="100%" alt="Career Timeline" src="assets/timeline.svg">
-
-</div>
-
 ---
 
-<div align="center">
-<img width="100%" alt="Let's Connect" src="assets/headers/connect.svg">
-</div>
+## 📫 Let's Connect
 
 Always open to meaningful collaborations, technical discussions, new opportunities, and building innovative software solutions.
 
@@ -251,13 +195,7 @@ Always open to meaningful collaborations, technical discussions, new opportuniti
 
 > **Think creatively. Code cleanly. Build intelligently. Keep evolving.**
 
-<a href="https://www.linkedin.com/in/mohammed-atash-66a1b7414"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Atash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mohammadatash62@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-mohammadatash62%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/MFCAtash"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MFCAtash-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<a href="https://mfcatash.github.io/cv/"><img alt="Resume" src="https://img.shields.io/badge/📄_View_My_CV-Resume-0b6e4f?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
-<a href="https://github.com/sponsors/MFCAtash"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-❤-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white"></a>
-
-**📧 Email:** [mohammadatash62@gmail.com](mailto:mohammadatash62@gmail.com) &nbsp;|&nbsp; **💼 LinkedIn:** [Mohammed Atash](https://www.linkedin.com/in/mohammed-atash-66a1b7414)
+<a href="assets/Mohammad-Atash-CV.pdf"><img alt="Resume" src="https://img.shields.io/badge/📄_Download_Resume-PDF-0b6e4f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 
 </div>
