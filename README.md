@@ -47,7 +47,10 @@ I value **clean code**, maintainable architecture, continuous learning, teamwork
 
 <div align="center">
 
-<img width="100%" alt="Skill Levels" src="assets/skills.svg?v=2">
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/MFCAtash/MFCAtash/main/assets/skills-mobile.svg">
+  <img width="100%" alt="Technical skills — frontend, backend, databases, Python &amp; AI, DevOps, C++" src="https://raw.githubusercontent.com/MFCAtash/MFCAtash/main/assets/skills-desktop.svg">
+</picture>
 
 </div>
 
